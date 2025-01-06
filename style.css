@@ -176,6 +176,27 @@ nav ul li a:hover {
     font-size: 16px;
 }
 
+.updates {
+  background-color: #111;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;	
+}
+
+.updates h2 {
+  color: #ff4b5c;
+}
+
+.updates ul {
+  list-style-type: none;
+  padding: 0;	
+}
+
+.updates li {
+  margin: 10px 0;
+  color: #ff4b5c;
+}
+
 footer {
     background-color: #111;
     color: #fff;
