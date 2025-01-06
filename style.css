@@ -113,7 +113,7 @@ nav ul li a:hover {
     color: #ff4b5c;
 }
 
-.about, .services, .contact {
+.about, .services, .contact, .info {
     padding: 80px 20px;
 }
 
@@ -123,6 +123,13 @@ nav ul li a:hover {
     line-height: 1.6;
     opacity: 0.9;
 }
+
+.info h3 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color: #ff4b5c;
+}	
 
 .service-item ul {
     list-style-type: none;
@@ -177,7 +184,9 @@ footer {
 }
 
 footer p {
-    font-size: 14px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #ff4b5c;
     opacity: 0.8;
 }
 
